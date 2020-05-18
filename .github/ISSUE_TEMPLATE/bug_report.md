@@ -24,8 +24,8 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots or videos to help explain the bug.
 
 **Version**
-- Game Version
-- Game Branch (Public/Beta)
+- Game Version:
+- Game Branch (Public/Beta):
 
 **Additional context**
 Add any other context about the problem here.
