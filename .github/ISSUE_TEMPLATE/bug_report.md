@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: For bugs lol
+about: For anything game breaking
 title: "[BUG]"
 labels: ''
 assignees: ''
