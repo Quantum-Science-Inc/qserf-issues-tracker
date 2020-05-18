@@ -2,7 +2,7 @@
 name: Bug report
 about: For anything game breaking
 title: "[BUG]"
-labels: ''
+labels: bug
 assignees: ''
 
 ---
