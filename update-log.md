@@ -11,7 +11,14 @@ Version tags:
 - **[TESTING]** for the active testing version of the game, usually prerelease
 - **[RELEASED]** for released versions
 
-### 3.0.2 [CURRENT] 
+### 3.0.3 [CURRENT]
+Fixed bugs
+- Keycard giver fixed
+- Quests, Teams and Settings UI fixed
+- Gamepass coil giver fixed
+- Fixed various new UI bugs
+
+### 3.0.2
 Fixed minor bugs fixes and patches and added back a door.
 - Added back pre seal 02 big vault door
 - Fixed a collider bug not allowing players with no tools to use the dispesner 
