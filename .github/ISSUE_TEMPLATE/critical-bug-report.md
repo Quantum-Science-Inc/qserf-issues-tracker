@@ -9,14 +9,14 @@ assignees: ''
 
 # Do you understand the following?
 By submitting a report of this type you agree that the whole SST team will be notified, and you risk getting banned if this report is false or forged.
-[ ] Yes (tick this) (replace space with x), example [x]
+- [ ] Yes (tick this) (replace space with x), example [x]
 
 # Make sure your bug is under one of the following categories
-[ ] DMR Fails to operate (dies midrun or on an event)
-[ ] Warheads fail to operate (die midrun or on an event)
-[ ] Challenge System Failure (no challenges showing up)
-[ ] Shop System Failure (Items not saving or not being given)
-[ ] Purchase Failure (after a purchase, your item was not delivered **not Roblox purchase failure message**)
+- [ ] DMR Fails to operate (dies midrun or on an event)
+- [ ] Warheads fail to operate (die midrun or on an event)
+- [ ] Challenge System Failure (no challenges showing up)
+- [ ] Shop System Failure (Items not saving or not being given)
+- [ ] Purchase Failure (after a purchase, your item was not delivered **not Roblox purchase failure message**)
 
 **Describe the bug**
 A clear and concise description of what the bug is.
