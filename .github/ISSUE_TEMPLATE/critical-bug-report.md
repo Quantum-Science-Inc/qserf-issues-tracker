@@ -9,7 +9,7 @@ assignees: ''
 
 # Do you understand the following?
 By submitting a report of this type you agree that the whole SST team will be notified, and you risk getting banned if this report is false or forged.
-[ ] Yes (tick this)
+[ ] Yes (tick this) (replace space with x), example [x]
 
 # Make sure your bug is under one of the following categories
 [ ] DMR Fails to operate (dies midrun or on an event)
