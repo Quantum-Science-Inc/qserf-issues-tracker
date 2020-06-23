@@ -11,7 +11,23 @@ Version tags:
 - **[TESTING]** for the active testing version of the game, usually prerelease
 - **[RELEASED]** for released versions
 
-### pre3.0.3 [CURRENT]
+### v3.0.0 "Megaupdate Phase 1"
+
+- New economy system. Make Electrons (game currency) to buy items in the shop, such as props, tools
+- Challenges system. Make extra Electrons by completing challenges, which will be swapped once every week
+- New UI. A new streamlined UI to make the aesthetic aspect of QSERF far more appealing
+- Created labs. GEMD - Genetic Engineering Modification Device - Modify the genetic structure of other users. Anti-Grav Lab - Experience the magic of magnetic manipulation
+- Meltdown script rewritten
+- Turbines functionality
+- New powerboard
+- New fuel cell status screen
+- New elevators
+- R.O. Building revampted
+- DMR CR revampted
+- New tartarus zone system and area
+- A shit ton of bug fixes
+
+### pre3.0.3 
 Fixed bugs
 - Keycard giver fixed
 - Quests, Teams and Settings UI fixed
