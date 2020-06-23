@@ -13,18 +13,20 @@ Version tags:
 
 
 ### v.3.1.1 "Megaupdate Phase 1 - Patch #2" [RELEASED]
+Fixed system bugs
 - Points income system patched 
 - Fixed GUI API bug
 - Fixed raider pass not being functional
 
 ### v3.1.0 "Megaupdate Phase 1 - Patch #1"
+Fixed critical datastore bugs and minor facility modifications
 - New Web database system for storing user data
 - Fixed audio and visual bugs 
 - Fixed collider overlapping GUIs
 - Addition of more signs into the facility
 
 ### v3.0.0 "Megaupdate Phase 1"
-
+Megaupdate Part 1 of 3
 - New economy system. Make Electrons (game currency) to buy items in the shop, such as props, tools
 - Challenges system. Make extra Electrons by completing challenges, which will be swapped once every week
 - New UI. A new streamlined UI to make the aesthetic aspect of QSERF far more appealing
