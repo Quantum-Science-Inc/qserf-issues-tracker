@@ -11,6 +11,12 @@ Version tags:
 - **[TESTING]** for the active testing version of the game, usually prerelease
 - **[RELEASED]** for released versions
 
+
+### v.3.1.1 "Megaupdate Phase 1 - Patch #2" [RELEASED]
+- Points income system patched 
+- Fixed GUI API bug
+- Fixed raider pass not being functional
+
 ### v3.1.0 "Megaupdate Phase 1 - Patch #1"
 - New Web database system for storing user data
 - Fixed audio and visual bugs 
