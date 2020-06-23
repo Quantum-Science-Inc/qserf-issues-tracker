@@ -11,6 +11,12 @@ Version tags:
 - **[TESTING]** for the active testing version of the game, usually prerelease
 - **[RELEASED]** for released versions
 
+### v3.1.0 "Megaupdate Phase 1 - Patch #1"
+- New Web database system for storing user data
+- Fixed audio and visual bugs 
+- Fixed collider overlapping GUIs
+- Addition of more signs into the facility
+
 ### v3.0.0 "Megaupdate Phase 1"
 
 - New economy system. Make Electrons (game currency) to buy items in the shop, such as props, tools
