@@ -11,14 +11,22 @@ Version tags:
 - **[TESTING]** for the active testing version of the game, usually prerelease
 - **[RELEASED]** for released versions
 
+### v.3.1.3 "Megaupdate Phase 1 - Patch #2" [TESTING]
+Fixed some bugs
+- Glitching out from the Anti-Grav Chamber, will now remove the effect
+- Electrons not being given every 10 minutes has been patched
+- You can no longer hold a gun when entering the Anti-Grav Chamber
+- You can no longer buy more than one fuel cells from the electrons store if already hold one
+- Relief valves can no longer be operated when in maintenance mode 
+- [Some other addition here]
 
-### v.3.1.1 "Megaupdate Phase 1 - Patch #2" [RELEASED]
+### v.3.1.2 "Megaupdate Phase 1 - Patch #2" [RELEASED]
 Fixed system bugs
 - Points income system patched 
 - Fixed GUI API bug
 - Fixed raider pass not being functional
 
-### v3.1.0 "Megaupdate Phase 1 - Patch #1"
+### v3.1.1 "Megaupdate Phase 1 - Patch #1"
 Fixed critical datastore bugs and minor facility modifications
 - New Web database system for storing user data
 - Fixed audio and visual bugs 
